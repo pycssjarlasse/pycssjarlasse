@@ -5,11 +5,6 @@
   Passionate about <b>Python</b>, <b>JavaScript</b>, <b>CSS</b> & all things tech 🧠🚀
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/982235924345782302">
-    <img src="https://lanyard.cnrad.dev/api/982235924345782302?theme=dark&bg=23272A&animated=true&hideDiscrim=true&borderRadius=15px&showDisplayName=true" alt="Discord Presence" />
-  </a>
-</p>
 
 ---
 
@@ -31,16 +26,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pycssjarlasse&theme=dark&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycssjarlasse&layout=compact&theme=dark&hide_border=true" />
-</div>
 
 ---
 
