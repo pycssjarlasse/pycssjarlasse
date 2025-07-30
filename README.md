@@ -28,6 +28,12 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://discord.com/users/982235924345782302">
+    <img src="https://lanyard.cnrad.dev/api/982235924345782302?theme=light&idleMessage=Coding%20something%20cool...&animated=false&hideProfile=false&hideStatus=true&hideSpotify=true&hideDiscrim=true&hideBadges=true&hideActivity=true&hideTimestamp=true&borderRadius=15px" alt="Discord Status" />
+  </a>
+</p>
+ 
 
 ## 🧩 Fun Fact
 
